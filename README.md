@@ -1,1 +1,1 @@
-Tribute website for Kobe Bryant 
+Simple website for Kobe Bryant 
