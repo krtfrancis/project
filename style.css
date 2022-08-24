@@ -1,0 +1,73 @@
+
+h1 {
+	font-size: 75px;
+	font-family: fantasy, sans-serif;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+}
+.head{
+	font-size: 30px;
+	font-family: monospace;
+	text-align: center;
+	margin-top: 1px;
+}
+
+#image {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: auto;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 25 px;
+	font-family: sans-serif;
+	background-color: whitesmoke;
+}
+
+
+
+figure {
+	background-color: black;
+	margin: 0px;
+	background-size: cover;
+}
+
+main {
+	background-image: linear-gradient(to right, purple, gold);
+	margin: 50px;
+}
+
+body {
+	font-family: sans-serif, helvetica;
+	font-size: 20px;
+	margin: 0px;
+	background-color: whitesmoke;
+	background-size: cover;
+
+}
+
+#tribute {
+	margin: 10px;
+}
+
+#statistics {
+	margin: 10px;
+}
+
+blockquote {
+	text-align: center;
+}
+
+#tribute {
+	border-style: double;
+	padding: 10px;
+	border-width: 5px;
+	background-image: linear-gradient(to left, purple, gold);
+	margin: 50px;
+}
+
+
