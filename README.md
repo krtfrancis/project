@@ -1,1 +1,1 @@
-Simple website for Kobe Bryant 
+Simple website about Kobe Bryant 
