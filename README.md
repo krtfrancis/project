@@ -1,1 +1,1 @@
-# project
+Tribute website for Kobe Bryant 
