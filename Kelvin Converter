@@ -1,0 +1,14 @@
+const Kelvin = 293;
+//Forecast Today
+
+const Celcius = Kelvin - 273;
+//Converting Kelvin to Celcius
+
+let Fahrenheit = Celcius * (9 / 5) + 32;
+//Value of Fahrenheit
+
+Fahrenheit = Math.floor(Fahrenheit);
+//Rounding off
+
+console.log(`The temperature is ${Fahrenheit} degrees Fahrenheit`);
+//Result
